@@ -63,4 +63,4 @@ When a user uses the daily planner to create a schedule:
 ## Links
 [Link to Github Repository](https://github.com/VASUK-09/Daily_Planner_05.git)
 
-[Link to Github pages]()
+[Link to Github pages](https://vasuk-09.github.io/Daily_Planner_05/)
